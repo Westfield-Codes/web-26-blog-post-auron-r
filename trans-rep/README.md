@@ -1,0 +1,2 @@
+# Blog_Post-Auron_Ragusa
+I made this myself without the template, it might be funky to make it work on your end, I just like knowing all of whats going on when I use something so I dont rly like templates that much.
