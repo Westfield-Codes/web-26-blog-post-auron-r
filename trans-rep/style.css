@@ -297,3 +297,31 @@ margin-top: 10vh;
     height: 1.5vh;
     border-radius: 0.5vh;
 }
+.Chirayugrad {
+    background: #833AB4;
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    width: 3vh;
+    height: 1.5vh;
+    border-radius: 0.5vh;
+}
+.Philipgrad {
+    background: #EEAECA;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    width: 3vh;
+    height: 1.5vh;
+    border-radius: 0.5vh;
+}
+.Embergrad {
+    background: #d7ff36;
+    background: radial-gradient(circle, rgba(215, 255, 54, 1) 0%, rgba(0, 212, 99, 1) 98%, rgba(14, 227, 117, 1) 100%);
+    width: 3vh;
+    height: 1.5vh;
+    border-radius: 0.5vh;
+}
+.Makinzgrad {
+    background: #020024;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    width: 3vh;
+    height: 1.5vh;
+    border-radius: 0.5vh;
+}
