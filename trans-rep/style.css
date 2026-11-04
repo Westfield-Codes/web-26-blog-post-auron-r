@@ -193,6 +193,10 @@ white-space: nowrap;
 .S-2ex-Container tbody td { /* This is what changes the table text item's size*/
 font-size: 2vh;
 }
+.S-2ex-Container ul {
+margin-top: 6vh;
+font-size: 2vh;
+}
 .S-2ex-navigation {
 position: absolute;
 top: 25%;
